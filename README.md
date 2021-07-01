@@ -16,6 +16,9 @@ AI image captioning is a method to generate relevant alt text for an image that 
 - Word Embeddings
 - Keras
 
+## Model Architecture
+![Model Architecture](https://github.com/kartikeya72001/AIImageCaptionBot/blob/master/model_plot.png?raw=true)
+
 ## Results
 
 ![Result Image 1](https://github.com/kartikeya72001/AIImageCaptionBot/blob/master/ResultImages/Image1.png?raw=true)
