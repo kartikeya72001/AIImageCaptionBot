@@ -18,10 +18,10 @@ AI image captioning is a method to generate relevant alt text for an image that 
 
 ## Results
 
-![Result Image 1](https://github.com/kartikeya72001/AIImageCaptionBot/ResultImages/Image1.png?raw=true)
-![Result Image 2](https://github.com/kartikeya72001/AIImageCaptionBot/ResultImages/Image2.png?raw=true)
-![Result Image 3](https://github.com/kartikeya72001/AIImageCaptionBot/ResultImages/Image3.png?raw=true)
-![Result Image 4](https://github.com/kartikeya72001/AIImageCaptionBot/ResultImages/Image4.png?raw=true)
+![Result Image 1](https://github.com/kartikeya72001/AIImageCaptionBot/blob/master/ResultImages/Image1.png?raw=true)
+![Result Image 2](https://github.com/kartikeya72001/AIImageCaptionBot/blob/master/ResultImages/Image2.png?raw=true)
+![Result Image 3](https://github.com/kartikeya72001/AIImageCaptionBot/blob/master/ResultImages/Image3.png?raw=true)
+![Result Image 4](https://github.com/kartikeya72001/AIImageCaptionBot/blob/master/ResultImages/Image4.png?raw=true)
 
 
 
